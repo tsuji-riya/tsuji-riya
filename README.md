@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![cat_dance](https://github.com/user-attachments/assets/aa141822-f0ff-47b8-a98b-d4b0261180c2)
+
 I'm a programmer from Japan 🇯🇵
 
 **About me**
