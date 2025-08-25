@@ -6,7 +6,7 @@ I'm a programmer from Japan 🇯🇵
 
 - 💬 Call me *Riya*
 
-- 🔭 I'm currently working on as a internship student.
+- 🎓 I'm a college student
 
 - 😄 I like writing Java, TypeScript, Go.
 
