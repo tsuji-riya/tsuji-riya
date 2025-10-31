@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![cat_dance](https://github.com/user-attachments/assets/aa141822-f0ff-47b8-a98b-d4b0261180c2)
+![cat-waving-hand](https://github.com/user-attachments/assets/98273cf7-2eaa-4eac-a0e3-aaaf9e7eff54)
 
 I'm a programmer from Japan 🇯🇵
 
