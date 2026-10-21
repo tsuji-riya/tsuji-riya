@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-![cat-waving-hand](https://github.com/user-attachments/assets/98273cf7-2eaa-4eac-a0e3-aaaf9e7eff54)
+<img width="400" height="400" alt="cat-vibing" src="https://github.com/user-attachments/assets/86c09da7-d1f6-44cb-a355-dcecd2346cce" />
 
-I'm a programmer from Japan 🇯🇵
